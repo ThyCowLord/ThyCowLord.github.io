@@ -1,2 +1,4 @@
 # A page for weirdos
-The Linux Russian Roulette can be found [here](https://thycowlord.github.io/bashyoheadin)
+## Projects
+### Bash yo head in
+It's unexpected Russian Roulette. To execute it, run bash<(
