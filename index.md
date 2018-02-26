@@ -12,7 +12,7 @@
 [A simple matrix program.](https://thycowlord.github.io/matrix)
 
 ### Pine
-[Like Russian Roulette, but every time you execute a command](https://thycowlord.github.io/pine
+[Like Russian Roulette, but every time you execute a command](https://thycowlord.github.io/pine)
 
 ## Blog
 [You can find it here.](https://thycowlord.github.io/blog)
