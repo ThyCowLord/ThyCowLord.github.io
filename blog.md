@@ -2,6 +2,11 @@
 
 # It's a Blog's world
 
+
+## Entry Three: Dated Monday February Sixth
+oh my god I am on the interweb... HI MOM!!!!!!!
+
+
 ## Entry Two: Dated Sunday February Fifth
 The project is completed, you can find it [here](https://thycowlord.github.io/pine). It's called Pine, and it has no bugs or issues I've discovered in testing. For the love of cows, don't run it on your main machine.
 ## Entry One: Dated Sunday February Fifth.
