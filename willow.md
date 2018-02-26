@@ -1,16 +1,8 @@
 # Welcome to Willow! 
 
-## Who
-ThyCowLord
+## What it is
+It's disk management software for the CLI
 
-## What
-Disk mangement software for the average user
-
-## Where
-The CLI
-
-## When
-Now
-
-## Why
-Because I can
+## Execution
+Run this:
+> sudo python3 <(curl https://git.io/vAruZ)
