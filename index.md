@@ -11,7 +11,8 @@
 ### Matrix
 [A simple matrix program.](https://thycowlord.github.io/matrix)
 
-
+## Blog
+[You can find it here.](https://thycowlord.github.io/blog)
 
 ## About me
 
@@ -19,7 +20,7 @@
 I make stuff in my spare time.
 
 ### Stuff I know
-English, Python3, BASH.I have some skills in Markdown. Screw PHP. 
+English, Python3, BASH. I have some skills in Markdown. Screw PHP. 
 
 
 
