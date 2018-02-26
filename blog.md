@@ -3,7 +3,7 @@
 # It's a Blog's world
 
 ## Entry Four: Dated Monday February Sixth
-It's complete! It's called nmp, you can find it [here].(https://github.com/ThyCowLord/nmp)
+It's complete! It's called nmp, you can find it [here](https://github.com/ThyCowLord/nmp).
 There are instructions, so go check that out. It works by taking the current time, taking another time, and doing a mathematical operation, and it has not produced the same number twice. However, if someone has the time right down to the microsecond, they may be able to steal the data. But, if you have someone standing over your shoulder, timing things to the microsecond, there's a bigger problem. 
 
 ## Entry Three: Dated Monday February Sixth
