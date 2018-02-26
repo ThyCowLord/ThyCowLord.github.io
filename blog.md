@@ -3,6 +3,4 @@
 # It's a Blog's world
 
 ## Entry One: Dated Sunday Febuary Fifth.
-Welcome! My current scripts don't do much, except the bashyofacein one. That has quite the effect. I'm currently working on an easy command line calculator. Planned release: in the next week.
-
-
+My current project is working on a python script, a script that every time you execute a command, it has a chance, set by the user, to __destroy the system__. How fun.
