@@ -2,6 +2,10 @@
 
 # It's a Blog's world
 
+## Entry Four: Dated Monday February Sixth
+It's complete! It's called nmp, you can find it [here](https://github.com/ThyCowLord/nmp)
+There are instructions, so go check that out.
+
 
 ## Entry Three: Dated Monday February Sixth
 New project, truly random numbers library for python.
