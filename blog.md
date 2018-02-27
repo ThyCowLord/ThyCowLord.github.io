@@ -4,8 +4,7 @@
 
 
 ## Entry Five: Dated Monday February Sixth
-New Project: Creating a web searcher using Duck Duck Go's Instant Answer API. Expected in the next few weeks.
-
+Roses are red, violets are blue, I hate PHP, and so do you.
 
 
 ## Entry Four: Dated Monday February Sixth
