@@ -4,6 +4,8 @@
 
 
 ## Entry Five: Dated Monday February Sixth
+New Project: Creating a web searcher using Duck Duck Go's Instant Answer API. Expected in the next few weeks.
+
 
 
 ## Entry Four: Dated Monday February Sixth
