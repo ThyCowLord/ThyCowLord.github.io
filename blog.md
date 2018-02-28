@@ -2,6 +2,8 @@
 
 # It's a Blog's world
 
+## Entry Six: Dated Tuesday February Seventh
+A better way for acessing my projects has been released. You can find it [here](https://github.com/ThyCowLord/bw)
 
 ## Entry Five: Dated Monday February Sixth
 Roses are red, violets are blue, I hate PHP, and so do you.
