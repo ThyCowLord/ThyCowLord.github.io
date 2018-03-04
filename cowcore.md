@@ -1,4 +1,4 @@
-### [Home]
+### [Home](https://thycowlord.github.io)
 
 # CowCore
 
