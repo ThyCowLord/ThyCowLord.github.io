@@ -4,7 +4,7 @@
 
 ## Entry Seven: Dated Sunday March Fourth
 CowCore has been developed. __It will not be released.__ The reason why? It's the engine I use for creating games.   
-It's the engine my company uses. So shut up. It's closed source.
+It's the engine my company uses. So shut up. It's closed source. You can find the docs [here](https://thycowlord.github.io/cowcore)
 
 
 ## Entry Six: Dated Tuesday February Seventh
