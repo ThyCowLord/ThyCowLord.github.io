@@ -2,8 +2,14 @@
 
 # It's a Blog's world
 
+## Entry Seven: Dated Sunday March Fourth
+CowCore has been developed. __It will not be released.__ The reason why? It's the engine I use for creating games.   
+It's the engine my company uses. So shut up. It's closed source.
+
+
 ## Entry Six: Dated Tuesday February Seventh
 A better way for acessing my projects has been released. You can find it [here](https://github.com/ThyCowLord/bw)
+
 
 ## Entry Five: Dated Monday February Sixth
 Roses are red, violets are blue, I hate PHP, and so do you.
